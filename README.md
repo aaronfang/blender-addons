@@ -4,6 +4,8 @@ Collection of Blender add-ons maintained as independent repositories and assembl
 
 ## Add-ons
 
+- [`8bitdo-blender-viewport`](addons/8bitdo-blender-viewport) — navigate Blender
+  4.5 viewports with an 8BitDo or other XInput controller on Windows.
 - [`mask-layer-manager`](addons/mask-layer-manager) — store and combine continuous sculpt mask layers.
 
 ## Clone

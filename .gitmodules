@@ -1,3 +1,6 @@
 [submodule "addons/mask-layer-manager"]
 	path = addons/mask-layer-manager
 	url = https://github.com/aaronfang/mask-layer-manager.git
+[submodule "addons/8bitdo-blender-viewport"]
+	path = addons/8bitdo-blender-viewport
+	url = https://github.com/aaronfang/8bitdo-blender-viewport.git
